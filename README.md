@@ -20,11 +20,11 @@ construir um pequeno sistema (API REST) de usuários e departamentos, com os seg
 - Buscar um usuário pelo seu id
 - Inserir um novo usuário
 
-![Image](https://github.com/AlanPrates/Java-web-spring-2023/blob/main/img/dominio.png")
+![Image](https://github.com/AlanPrates/Java-web-spring-2023/blob/main/img/dominio.png)
 
 ### Desenvolvimento moderno: relacional -> objeto -> json
 
-![Image](https://github.com/AlanPrates/Java-web-spring-2023/blob/main/img/objetos.png")
+![Image](https://github.com/AlanPrates/Java-web-spring-2023/blob/main/img/objetos.png)
 
 ### Passos da aula
 
