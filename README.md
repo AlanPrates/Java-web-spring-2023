@@ -19,7 +19,7 @@ construir um pequeno sistema (API REST) de usuários e departamentos, com os seg
 
 ![Image](https://github.com/AlanPrates/Java-web-spring-2023/blob/main/img/objetos.png)
 
-### Passos da aula
+### Passos
 
 - Criar o projeto
 - Implementar o modelo de domínio
