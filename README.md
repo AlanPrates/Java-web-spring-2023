@@ -27,7 +27,7 @@ construir um pequeno sistema (API REST) de usuários e departamentos, com os seg
 - Configurar o banco de dados H2
 - Criar os endpoints da API REST
 
-### Trechos de código para copiar
+### Trechos de código 
 
 #### Configuração do Maven Resources Plugin
 
